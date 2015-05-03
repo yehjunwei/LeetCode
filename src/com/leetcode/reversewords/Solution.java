@@ -6,8 +6,9 @@ public class Solution {
         if(s == null || s.isEmpty())
             return s;
         
+        // remove leading and trailing spaces
         s = s.trim();
-        String[] words = s.split("\\s+", 1);
+        String[] words = s.split("\\s+");
         int size = words.length;
         StringBuffer reversedWords = new StringBuffer();
         for(int i = size-1 ; i >= 0 ; i--) {
