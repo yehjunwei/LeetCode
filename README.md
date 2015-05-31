@@ -1,10 +1,13 @@
 # LeetCode
 
-Solution: com.leetcode.BSTIterator<br/>
-https://leetcode.com/problems/binary-search-tree-iterator/
+BSTIterator:  
+https://leetcode.com/problems/binary-search-tree-iterator/  
+Solution: com.leetcode.BSTIterator  
 
-Solution: com.leetcode.reversewords<br/>
-https://leetcode.com/problems/reverse-words-in-a-string/
+Reverse Words in String:  
+https://leetcode.com/problems/reverse-words-in-a-string/  
+Solution: com.leetcode.reversewords
 
-Solution: com.leetcode.cyclelinkedlist<br/>
-https://leetcode.com/problems/linked-list-cycle/
+Detect Cycle Linked List:  
+https://leetcode.com/problems/linked-list-cycle/  
+Solution: com.leetcode.cyclelinkedlist  
